@@ -11,7 +11,7 @@ export default function HomePage() {
                 <a href="https://norops.jp" className="hover:underline">⚡️ サクプラ by Norops</a>
               </p>
               <h1 className="mt-3 text-4xl font-semibold tracking-tight sm:text-5xl">
-                <a href="https://norops.jp" className="hover:underline">100apps ポータル</a>
+                <a href="https://norops.jp" className="hover:underline">100appspo-taru</a>
               </h1>
               <p className="mt-4 max-w-2xl text-base leading-7 text-slate-600 dark:text-slate-300">
                 各種ツールへすばやくアクセスできるポータルサイトです。今後アプリを追加して拡張できます。
