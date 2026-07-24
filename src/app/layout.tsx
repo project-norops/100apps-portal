@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "⚡️ サクプラ by Norops",
-  description: "100apps ポータルサイト - サクプラ by Norops",
+  title: "⚡️ サクプラ by NOROPS",
+  description: "100apps ポータルサイト - サクプラ by NOROPS",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

@@ -8,17 +8,17 @@ export default function HomePage() {
           <div className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
             <div>
               <p className="text-sm font-semibold uppercase tracking-[0.24em] text-sky-600">
-                <a href="https://norops.jp" className="hover:underline">⚡️ サクプラ by Norops</a>
+                ⚡️ サクプラ by NOROPS
               </p>
               <h1 className="mt-3 text-4xl font-semibold tracking-tight sm:text-5xl">
-                <a href="https://norops.jp" className="hover:underline">100appspo-taru</a>
+                サクプラ by NOROPS
               </h1>
               <p className="mt-4 max-w-2xl text-base leading-7 text-slate-600 dark:text-slate-300">
                 各種ツールへすばやくアクセスできるポータルサイトです。今後アプリを追加して拡張できます。
               </p>
             </div>
             <div className="rounded-3xl bg-slate-100 px-5 py-4 text-sm text-slate-700 shadow-sm dark:bg-slate-800 dark:text-slate-200">
-              © 2026 サクプラ (norops.jp)
+              © 2026 サクプラ (nonops.jp)
             </div>
           </div>
         </header>
@@ -43,7 +43,7 @@ export default function HomePage() {
         </section>
 
         <footer className="mt-12 rounded-3xl border border-slate-200 bg-white p-6 text-sm text-slate-600 shadow-sm dark:border-slate-800 dark:bg-slate-900 dark:text-slate-400">
-          ⚡️ サクプラ by Norops - すべてのアプリをこのポータルからアクセスできます。
+          ⚡️ サクプラ by NOROPS - すべてのアプリをこのポータルからアクセスできます。
         </footer>
       </div>
     </main>
